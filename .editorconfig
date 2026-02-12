@@ -1,0 +1,4 @@
+﻿[*.{cs,vb}]
+
+# IDE0030: Usar a expressão de união
+dotnet_style_coalesce_expression = true

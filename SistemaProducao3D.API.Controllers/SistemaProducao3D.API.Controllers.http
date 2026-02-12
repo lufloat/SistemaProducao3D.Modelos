@@ -1,0 +1,6 @@
+@SistemaProducao3D.API.Controllers_HostAddress = http://localhost:5083
+
+GET {{SistemaProducao3D.API.Controllers_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
